@@ -15,7 +15,7 @@ public class SunshineActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Create SunshineFragment
+        // Create SunshineFragment test
         FragmentManager fragmentManager = getSupportFragmentManager();
         Fragment fragment = SunshineFragment.newInstance();
 
